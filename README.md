@@ -2,9 +2,9 @@
 just inventory buttons as a ct module
 
 commands:
-- /invbtns_add <ItemID> <command> (without /)
+- /invbtns_add "ItemID" "command" (without /)
 - /invbtns_clear 
--invbuttonsgui
+- /invbuttonsgui
 
 in the gui you can move the buttons around how ever you would like, right clicking on a button inside the gui will remove it.
 
